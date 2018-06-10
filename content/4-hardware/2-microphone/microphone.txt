@@ -1,0 +1,10 @@
+Title: microphone
+
+----
+
+Text: 
+
+###Check for dust and debris.
+(image: Compressed Air Can@2x.jpg width:400px)
+**Carefully** spray the microphone area (top of iPad) 
+at an angle using a can of **compressed air**.

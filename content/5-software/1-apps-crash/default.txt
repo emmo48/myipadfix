@@ -1,0 +1,12 @@
+Title: Apps Crash
+
+----
+
+Text: 
+
+###(link: power/turn-on/reset-ipad text: 1. Reset the iPad.)
+
+###2. Delete the app and re-download it from the Purchased section of the App Store. 
+(image: App Store Icon@2x.jpg width: 75px)
+
+*Apps can sometimes “crash,” or close on their own, due to a glitch.

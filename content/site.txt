@@ -1,0 +1,16 @@
+Title: My iPad Fix
+
+----
+
+Author: Emily Hendricks
+
+----
+
+Description: My iPad Fix is intended to help guide an iPad user through a successful troubleshooting workflow.
+----
+
+Keywords: iPad, troubleshoot, workflow
+
+----
+
+Copyright: © 2017-(date: Year) 

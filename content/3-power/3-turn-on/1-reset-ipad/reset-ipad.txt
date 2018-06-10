@@ -1,0 +1,13 @@
+Title: reset ipad
+
+----
+
+Text: 
+
+###**Reset iPad**
+
+If you know the iPad is charged but it still will not turn on, reset the device:  
+
+(image: reset ipad.png height: 250px)
+
+Hold both the **Power and Home buttons **at the same time until a white apple logo appears.  Then, let go of the buttons and wait for it to turn on.

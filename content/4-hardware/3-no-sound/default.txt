@@ -1,0 +1,9 @@
+Title: no sound
+
+----
+
+Text: 
+
+###Is the volume **muted**?
+###(link: /hardware/no-sound/volume-muted text:Yes.)
+###(link: /hardware/no-sound/volume-not-muted text: No.)

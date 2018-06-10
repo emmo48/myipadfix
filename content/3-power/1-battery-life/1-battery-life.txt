@@ -1,0 +1,15 @@
+Title: battery life
+
+----
+
+Text: 
+
+###Check These Settings First:
+###(link: power/battery-life/battery-usage-video text: **Battery Usage**)
+#####The average battery life for most iPads is 10 hours.  If your iPad loses its charge much sooner than this, please check the battery usage settings.  Then, delete or close out of any apps that are using a significant amount of battery.
+
+###(link: power/battery-life/battery-usage-video text: **Background App Refresh**)
+#####Certain apps will sometimes be active in the background, especially those that check for device location or stream content.  App refresh behavior can be turned off globally, or by app in order to preserve battery life.
+
+###(link: power/battery-life/battery-usage-video text: **Location Services**)
+#####Sometimes apps require the use of your current location for accuracy.  This service uses both Bluetooth and Wi-Fi, which can drain the battery if not needed. Check the Location Services settings to either turn them off globally, or by app.  Also, check the System Services section for advanced settings.

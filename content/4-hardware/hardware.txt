@@ -1,0 +1,13 @@
+Title: hardware
+
+----
+
+Text: 
+
+###(link: hardware/button-broken text: Power/Home button is broken.)
+
+###(link: hardware/microphone text: Microphone is not working.)
+
+###(link: hardware/no-sound text: Don't hear any sound.)
+
+###(link: hardware/screen-cracked text: iPad screen is cracked.)

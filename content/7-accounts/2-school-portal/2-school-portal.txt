@@ -1,0 +1,15 @@
+Title: school portal
+
+----
+
+Text: 
+
+###Verify that your login information is correct.
+
+##User Name: 
+
+first initial + last name + last two digits of grad. year
+
+##Password: 
+
+**hillbrook** (for new students) or portal password

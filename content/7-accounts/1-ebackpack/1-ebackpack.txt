@@ -1,0 +1,18 @@
+Title: ebackpack
+
+----
+
+Text: 
+
+(image: ebackpack.jpg width: 150px)
+
+###Verify that your login information is correct.
+
+###User Name: 
+
+Same as portal (i.e. jfallon19)
+
+###Password:
+
+**hillbrook** (new students) or portal password
+**Brookhill5** (new faculty) or portal password

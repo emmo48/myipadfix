@@ -1,0 +1,9 @@
+Title: wifi
+
+----
+
+Text: 
+
+###(link: wifi/connect-to-wifi text: iPad won't connect to WiFi.)
+
+###(link: wifi/wifi-password text: I don't know the WiFi password.)

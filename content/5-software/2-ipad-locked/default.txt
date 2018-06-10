@@ -1,0 +1,9 @@
+Title: iPad Locked
+
+----
+
+Text: 
+
+###(link: differentissue  text: I do not remember my login Passcode.)
+
+###(link: differentissue  text: There is a Restrictions passcode that I do not know.)

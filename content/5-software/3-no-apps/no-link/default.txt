@@ -1,0 +1,12 @@
+Title: no link
+
+----
+
+Text: 
+
+(image: mail icon.jpg width: 75px)
+###1. Check your inbox for an e-mail from 
+###*“Hillbrook Technology Department."*
+###2. Tap on the link in the e-mail and log in with your Apple I.D. (Hillbrook e-mail address) and password.
+(image: App Store Icon@2x.jpg width: 75px)
+###3. Check the Purchased section of the App Store.

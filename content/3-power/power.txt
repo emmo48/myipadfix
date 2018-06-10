@@ -1,0 +1,11 @@
+Title: power
+
+----
+
+Text: 
+
+###(link: power/turn-on text: iPad won't turn on.)
+
+###(link: power/charging text: iPad won't charge.)
+
+###(link: power/battery-life text: iPad battery life is short.)

@@ -1,0 +1,13 @@
+Title: turn on
+
+----
+
+Text: 
+
+###**Is the iPad charged**?
+
+###(link: power/turn-on/reset-ipad text: Yes.)
+
+###(link: power/turn-on/no-charge text: No.)
+
+###(link: power/turn-on/charge-unknown text: I'm not sure.)

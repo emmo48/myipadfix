@@ -1,0 +1,11 @@
+Title: no charge
+
+----
+
+Text: 
+
+###Plug the iPad into an outlet (or USB port).
+(image: Wall Outlet@2x.png width: 100px)
+
+###Wait at least ten minutes for the iPad to charge.
+(image: Pad connect to power@2x.jpg width: 150px)

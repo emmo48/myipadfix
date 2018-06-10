@@ -1,0 +1,16 @@
+Title: no email
+
+----
+
+Text: 
+
+If you have more than one email account, make sure 
+you have the correct inbox in view.
+
+In the upper left-hand corner, tap **“Mailboxes."**
+
+(image: mailboxes.png width: 175px)
+
+Tap **“All Inboxes,”** or select the inbox that you want to view.
+
+(image: all inboxes.png width: 175px)

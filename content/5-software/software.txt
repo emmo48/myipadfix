@@ -1,0 +1,13 @@
+Title: software
+
+----
+
+Text: 
+
+###(link: power/turn-on/reset-ipad text: iPad screen flickers.)
+
+###(link: software/no-apps text: I am not receiving any Hillbrook apps.)
+
+###(link: software/apps-crash text: Apps are crashing.)
+
+###(link: software/ipad-locked text: I am locked out of my iPad.)

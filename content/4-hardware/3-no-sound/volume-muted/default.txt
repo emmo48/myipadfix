@@ -1,0 +1,10 @@
+Title: volume muted
+
+----
+
+Text: 
+
+Swipe from the bottom of the screen and drag the volume slider to the right.  
+OR, press the "volume increase" button on the side of the iPad.
+##
+(image: volume slider.png height: 75px)

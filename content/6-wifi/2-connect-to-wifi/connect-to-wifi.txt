@@ -1,0 +1,14 @@
+Title: Connect to WiFi
+
+----
+
+Text: 
+
+###1. Turn WiFi OFF, then ON.
+(image: wifi-off-on.png height: 50px)
+###2. Turn the iPad OFF, then ON...
+####...by holding the Power button down until a slider appears.  
+Wait a few seconds, then turn back ON.
+(image: slide-to-power-off@2x.png height: 130px)
+###3. Check for software updates.
+###4. (link: power/turn-on/reset-ipad text: Reset the iPad.)

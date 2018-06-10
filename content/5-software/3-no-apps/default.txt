@@ -1,0 +1,10 @@
+Title: No Apps
+
+----
+
+Text: 
+
+###Did you already link your Apple I.D.?
+(from the email invitation)
+###(link: power/turn-on/reset-ipad text: Yes.)
+###No.
